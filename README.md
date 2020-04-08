@@ -1,7 +1,6 @@
 # Be a Hero
-![91428751_645839449294875_1494820593793499136_n](https://user-images.githubusercontent.com/42354665/78088359-510a2a80-739a-11ea-9eeb-e79166ed7020.jpg)
-![91257489_494932661388496_2521361573319016448_n](https://user-images.githubusercontent.com/42354665/78088347-4a7bb300-739a-11ea-9fe7-4fed828ebecb.jpg)
-
-![91521563_226060292097487_5336449882632749056_n](https://user-images.githubusercontent.com/42354665/78088564-e9081400-739a-11ea-81b2-aed26e1dba24.jpg)
-
-
+![splash](https://user-images.githubusercontent.com/42354665/78731867-5118a600-7917-11ea-9f86-75c6c35bccb3.jpg)
+![login](https://user-images.githubusercontent.com/42354665/78731903-70afce80-7917-11ea-9bad-b7b6c7bb8725.jpg)
+![register](https://user-images.githubusercontent.com/42354665/78731935-8f15ca00-7917-11ea-9d7f-1f43952f32aa.jpg)
+![incidents](https://user-images.githubusercontent.com/42354665/78731938-950bab00-7917-11ea-8578-7d639bfba329.jpg)
+![new-incident](https://user-images.githubusercontent.com/42354665/78731943-99d05f00-7917-11ea-8120-94f204acc925.jpg)
